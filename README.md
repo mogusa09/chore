@@ -1,2 +1,2 @@
 # chore
-choreo
+chor
